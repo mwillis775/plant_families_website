@@ -25,4 +25,4 @@ This website provides information and resources about plant families, including 
 Contributions are welcome! Please open an issue or submit a pull request for suggestions or improvements.
 
 ## License
-Specify your license here (e.g., MIT, GPL, etc.).
+MIT
